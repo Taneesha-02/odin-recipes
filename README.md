@@ -4,7 +4,7 @@
 
 # This project is design to help me build strong foundation in web development. Throughout this project, I will be working with various technologies concepts to enhance my coding skills and understanding of software development principles.
 
-## Skills Demonstrated  
+## Skills Demonstrated-
 By the end of this project, I will have demonstrated the following skills:  
 
 - **HTML, CSS, JavaScript fundamentals**  
